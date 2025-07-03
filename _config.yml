@@ -1,0 +1,17 @@
+
+title: "Alejandro Oporto Velásquez"
+email: alejandro.oporto@udg.edu
+description: >-
+  PhD Candidate in Economics at the University of Girona.
+baseurl: "" 
+url: "https://alejandrooporto.github.io"
+twitter_username: ""
+github_username: alejandrooporto
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+markdown: kramdown
